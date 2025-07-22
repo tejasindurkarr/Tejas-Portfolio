@@ -1,3 +1,4 @@
+HEAD
 # 🚀 3D Developer Portfolio
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
@@ -91,3 +92,6 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 ## 📬 Contact Me
 [Instagram](https://www.instagram.com/tejxxas/) 
 
+=======
+# Tejas-Portfolio
+ 1681f5172e11fcb47ce34e36b20738722f79b958
