@@ -24,3 +24,4 @@ const App = () => {
 };
 
 export default App;
+Fix Navbar import path for Vercel
